@@ -16,7 +16,7 @@ Welcome to this repository which is used for practicing all things Git!
 Please always fork and then clone this project before making / submitting changes:
 
 ```
-https://github.com/ryj1205/AEDXDD04-July-23-RYJ.git
+https://github.com/ryj1205/AEDXDD04-July-23-RYJ
 ```
 
 ### Project Contributors
