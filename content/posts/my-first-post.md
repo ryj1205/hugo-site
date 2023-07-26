@@ -23,4 +23,4 @@ https://github.com/ryj1205/AEDXDD04-July-23-RYJ
 
 | Name         | Description |
 | -----------  | ----------- |
-| Ryan Jackson | Site Reliability Engineer |
+| Ryan Jackson | Tester of new things |
